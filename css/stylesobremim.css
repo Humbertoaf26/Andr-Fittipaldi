@@ -1,0 +1,16 @@
+ .cabecalho{
+    color: aliceblue;
+    font-size: 42px;
+    margin: 15px;
+    margin-top: -60px;
+    
+ }
+ .body{
+    background-image: url(../img/fundo.png);
+}
+.texto{
+    color: aliceblue;
+    font-size: 30px;
+    margin: 15px;
+
+}

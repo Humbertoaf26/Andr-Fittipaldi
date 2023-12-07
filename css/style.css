@@ -1,0 +1,17 @@
+.cabecalho{
+    
+    background-color: black;
+    height: 230px;
+    width: 1580px;
+     
+    color: aliceblue;
+    font-size: 42px;
+    border-radius: 90px;
+    
+     
+    
+ }
+.body{
+    background-image: url(../img/fundo.png);
+
+}
